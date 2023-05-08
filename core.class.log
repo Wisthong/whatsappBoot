@@ -1,0 +1,76 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233714827@s.whatsapp.net',
+    fromMe: false,
+    id: '308B5D7BFCF27BCA13F1CB4BCB6FBD8F',
+    participant: undefined
+  },
+  messageTimestamp: 1683520129,
+  pushName: 'Ximena Asprilla 😘😍',
+  message: Message {
+    conversation: 'Que hace',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que hace',
+  from: '573233714827'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233714827@s.whatsapp.net',
+    fromMe: false,
+    id: '43C3438BD6AC038DEE0B037E70FAA7CD',
+    participant: undefined
+  },
+  messageTimestamp: 1683520136,
+  pushName: 'Ximena Asprilla 😘😍',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573233714827'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573235172043@s.whatsapp.net',
+    fromMe: false,
+    id: 'B7BAEAC5665E9D4CE9ADE75286ABCD93',
+    participant: undefined
+  },
+  messageTimestamp: 1683520138,
+  pushName: 'Eva Isabella',
+  message: Message {
+    conversation: 'A vejj Chao.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'A vejj Chao.',
+  from: '573235172043'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233714827@s.whatsapp.net',
+    fromMe: false,
+    id: 'C9D3DB0E600907E8EF6FC724B275B602',
+    participant: undefined
+  },
+  messageTimestamp: 1683520144,
+  pushName: 'Ximena Asprilla 😘😍',
+  message: Message {
+    conversation: 'terminar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'terminar',
+  from: '573233714827'
+}
