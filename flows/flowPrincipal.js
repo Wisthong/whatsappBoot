@@ -3,7 +3,7 @@ const { flowConversation } = require("./flowConversation");
 
 const flowPrincipal = addKeyword(EVENTS.WELCOME)
   // const flowPrincipal = addKeyword(["hola", "alo"])
-  .addAnswer("Bivenid@ al *ChatBot de Wisthong*")
+  .addAnswer("Bienvenid@ al *ChatBot de Wisthong*")
   .addAnswer([
     "¿En que puedo ayudarte?",
     "",

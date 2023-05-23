@@ -1,0 +1,97 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573127805762@s.whatsapp.net',
+    fromMe: false,
+    id: '11AA78D620B76A305A',
+    participant: undefined
+  },
+  messageTimestamp: 1683573219,
+  pushName: '573127805762',
+  message: Message {
+    templateMessage: TemplateMessage { hydratedTemplate: [HydratedFourRowTemplate] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Organización Arroyave',
+  body: '',
+  from: '573127805762'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573127805762@s.whatsapp.net',
+    fromMe: false,
+    id: 'D5D3582CC70EED5216',
+    participant: undefined
+  },
+  messageTimestamp: 1683573309,
+  pushName: '573127805762',
+  message: Message {
+    templateMessage: TemplateMessage { hydratedTemplate: [HydratedFourRowTemplate] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Organización Arroyave',
+  body: '',
+  from: '573127805762'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152814488@s.whatsapp.net',
+    fromMe: false,
+    id: '6B3EEF75509BAE128134625DDDF7BBCA',
+    participant: undefined
+  },
+  messageTimestamp: 1683573350,
+  pushName: 'Jessica Vivas 👩🏾‍🦱',
+  message: Message {
+    conversation: 'Holisssss',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Holisssss',
+  from: '573152814488'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152814488@s.whatsapp.net',
+    fromMe: false,
+    id: '3ED417CFBD2AEBB0B0BF30BD5A901E7F',
+    participant: undefined
+  },
+  messageTimestamp: 1683573378,
+  pushName: 'Jessica Vivas 👩🏾‍🦱',
+  message: Message {
+    conversation: 'Como siguio compita?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como siguio compita?',
+  from: '573152814488'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152814488@s.whatsapp.net',
+    fromMe: false,
+    id: '062F6816DD7C0B5BA00649D3F21E4445',
+    participant: undefined
+  },
+  messageTimestamp: 1683573386,
+  pushName: 'Jessica Vivas 👩🏾‍🦱',
+  message: Message {
+    conversation: 'Mejor esa herida?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mejor esa herida?',
+  from: '573152814488'
+}
